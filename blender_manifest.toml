@@ -1,0 +1,13 @@
+schema_version = "1.0.0"
+id = "lexikonn_ue_chaos_vehicle"
+version = "1.1.0"
+name = "UE Chaos Vehicle Prep"
+tagline = "Prepare vehicle meshes and a rigid rig for Unreal Engine Chaos Vehicles"
+maintainer = "Lexikonn"
+type = "add-on"
+blender_version_min = "4.2.0"
+license = ["SPDX:GPL-3.0-or-later"]
+copyright = ["2026 Lexikonn"]
+
+[permissions]
+files = "Export FBX and Chaos setup JSON files"
